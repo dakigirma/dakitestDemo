@@ -1,0 +1,6 @@
+﻿
+CREATE PROCEDURE spCustomer
+AS 
+BEGIN 
+	SELECT * FROM dbo.customer	ORDER BY Fname
+END

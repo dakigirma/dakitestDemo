@@ -1,0 +1,9 @@
+C:\Myprojects\Git Demo\ThechBrotherDemo\ThechBrotherDemo\bin\Debug\ThechBrotherDemo.dacpac
+C:\Myprojects\Git Demo\ThechBrotherDemo\ThechBrotherDemo\obj\Debug\ThechBrotherDemo.dll
+C:\Myprojects\Git Demo\ThechBrotherDemo\ThechBrotherDemo\obj\Debug\ThechBrotherDemo.pdb
+C:\Myprojects\Git Demo\ThechBrotherDemo\ThechBrotherDemo\bin\Debug\ThechBrotherDemo.dll
+C:\Myprojects\Git Demo\ThechBrotherDemo\ThechBrotherDemo\bin\Debug\ThechBrotherDemo.pdb
+C:\Myprojects\Git Demo\ThechBrotherDemo\ThechBrotherDemo\obj\Debug\Model.xml
+C:\Myprojects\Git Demo\ThechBrotherDemo\ThechBrotherDemo\obj\Debug\refactor.xml
+C:\Myprojects\Git Demo\ThechBrotherDemo\ThechBrotherDemo\obj\Debug\postdeploy.sql
+C:\Myprojects\Git Demo\ThechBrotherDemo\ThechBrotherDemo\obj\Debug\predeploy.sql

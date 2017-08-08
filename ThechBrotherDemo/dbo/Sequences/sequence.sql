@@ -1,0 +1,7 @@
+﻿CREATE SEQUENCE [dbo].[sequence]
+    AS INT
+    INCREMENT BY 10
+    MINVALUE 100
+    MAXVALUE 150
+    CYCLE;
+
